@@ -1,0 +1,246 @@
+body{
+    margin: 0px;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+/*--------NAVBAR-------*/
+
+
+.navbar{
+    background-color:  #522d5b;
+    box-shadow:3px 5px 30px #888888;
+
+}
+.navbar-brand{
+    font-size: 2.25rem;
+    font-family: 'Lobster', cursive;
+}
+.nav-item{
+    padding: 0px 30px;
+}
+.nav-link{
+    font-family: 'Gotu', sans-serif;
+}
+
+
+
+
+
+/*--------  TOP-ONE --------*/
+
+
+#work-top{
+    background-color: #fbdff0;
+    text-align: center;
+    margin: 0px;
+    padding-bottom: 4rem;
+}
+
+.ican{
+    color: #891180;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 22px;
+    position: relative;
+    bottom: 46px;
+   
+}
+
+.tree1{
+    right: 25rem;
+}
+
+.tree2{
+   left: 25rem;
+}
+
+.tree1,.tree2{
+    height: 211px;
+    width: 68px;
+    bottom: 0px;
+    position: absolute;
+    top: 15.8rem;
+}
+
+.cloude1{
+    left: 10rem;
+    top: 15rem;
+}
+.cloude2{
+    right: 10rem;
+    top: 10rem;
+}
+.cloude1,.cloude2{
+    position: absolute;
+    height: 4rem;
+    width: 11rem;
+}
+
+
+
+
+
+
+/*--------  MIDD -1-------*/
+
+
+#mid-1{
+    background-color: #f6c3e5;
+    text-align: center;
+    padding-top :0px;
+    padding-bottom :3rem;
+}
+.work-stu{
+    height:10rem;
+    width: auto;
+    margin-top: 2rem;
+}
+.workstetment{
+    font-family: 'Lemonada', cursive;
+    color: #381460;
+    padding: 3rem 2rem;
+    font-size: 2.2rem;
+    margin: 0px;
+}
+
+
+
+
+/*----------------comman-----------------*/
+
+
+h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 2rem;
+    color: #891180;
+    font-size: 26px;
+    padding-top: 0px;
+}
+h3{
+    color: #efb1ff;
+    font-family: 'Lemonada', cursive;
+    padding-top: 6rem;
+    padding-bottom: 8rem;
+    font-size: 3.5rem;
+}
+h1{
+    color: #381460;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 10rem;
+    padding-top: 4rem;
+    position: relative;
+    bottom: 30px;
+    text-shadow: 1px 2px 5px gray;
+}
+h2{
+    color: #891180;
+    font-size: 2.6rem;
+    margin-bottom: 2rem;
+}
+
+
+
+
+/*------------MID -2------------*/
+
+#mid-2{
+    background-color:  #522d5b;
+    text-align: center;
+    padding-bottom :3rem;
+}
+.w-moniter{
+    height: 15rem;
+    width: 18rem;
+   
+}
+
+.w-lilmoniter{
+    border-radius: 100%;
+    height: 8rem;
+    width: auto;
+    position: absolute;
+    left: 34rem;
+    background-color: ivory;
+    top: 89rem;
+}
+.my-work{
+    color:  #faf4ff;
+    font-size: 1.6rem;
+    padding-top: 5rem;
+}
+.btns{
+    padding: 1rem 4rem;
+    margin: 12rem;
+    margin-top: 0rem;
+}
+
+
+
+
+
+
+
+/*--------------MID-3-------------------*/
+
+
+#mid-3{
+    background-color: #f6c3e5;
+    text-align: center;
+   
+}
+.Familiar{
+    color: #381460;
+    padding: 4rem 0rem 4rem 0rem;
+    font-size: 3.5rem;
+}
+.fam{
+    height: 7rem;
+    width: auto ;
+}
+.fem-img{
+    height: 7rem;
+    width: auto;
+    padding: 0rem 8rem;
+    margin-bottom: 2rem;
+}
+
+
+
+
+/*--------------MID-4-------------------*/
+
+
+#mid-4{
+    background-color:  #522d5b;
+}
+.back-img{
+    height: 17rem;
+    width: auto;
+    border-radius: 100%;
+   
+}
+.btns2{
+   margin: 0rem 12rem;
+}
+
+/*--------------BOTTOM-------------------*/
+#botom{
+background-color: #f6c3e5;
+margin: 0px;
+}
+
+
+.fab{
+    margin-top: 10px;
+}
+
+.f3{
+    color: #381460;
+    padding-bottom: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 33px;
+}
